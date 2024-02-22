@@ -1,0 +1,18 @@
+mode: set
+github.com/pavaudon/bookings/internal/forms/errors.go:6.44,8.2 1 1
+github.com/pavaudon/bookings/internal/forms/errors.go:11.42,13.18 2 0
+github.com/pavaudon/bookings/internal/forms/errors.go:13.18,15.3 1 0
+github.com/pavaudon/bookings/internal/forms/errors.go:16.2,16.14 1 0
+github.com/pavaudon/bookings/internal/forms/forms.go:18.29,20.2 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:23.33,28.2 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:30.43,31.31 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:31.31,33.37 2 1
+github.com/pavaudon/bookings/internal/forms/forms.go:33.37,35.4 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:40.39,42.13 2 1
+github.com/pavaudon/bookings/internal/forms/forms.go:42.13,45.3 2 1
+github.com/pavaudon/bookings/internal/forms/forms.go:46.2,46.13 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:49.56,51.20 2 1
+github.com/pavaudon/bookings/internal/forms/forms.go:51.20,54.3 2 1
+github.com/pavaudon/bookings/internal/forms/forms.go:55.2,55.13 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:58.38,59.40 1 1
+github.com/pavaudon/bookings/internal/forms/forms.go:59.40,61.3 1 1
